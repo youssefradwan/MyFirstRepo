@@ -1,0 +1,1 @@
+I learned how to use GitHub to make a Repository and to clone it to my local machine
